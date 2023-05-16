@@ -7,6 +7,10 @@
  - 👯  I'm looking to collaborate on any Machine Learning Projects and Web Development projects.
  - 📫  How to reach me: didumfernando1234@gmail.com
 
+## Projects 
+[![Basic Malware Checker](https://github-readme-stats.vercel.app/api/pin/?username=didumfernando&repo=Save-The-World-1&theme=dark&border_color=565656)](https://github.com/didumfernando/Save-The-World-1) 
+
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,flask,linux,mongodb,ps,py,qt,react,redux,sass,sqlite,vite)](https://skillicons.dev)
 
 
