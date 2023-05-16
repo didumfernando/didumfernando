@@ -7,6 +7,8 @@
  - 👯  I'm looking to collaborate on any Machine Learning Projects and Web Development projects.
  - 📫  How to reach me: didumfernando1234@gmail.com
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,flask,linux,mongodb,ps,py,qt,react,redux,sass,sqlite,vite)](https://skillicons.dev)
+
 
 
 
