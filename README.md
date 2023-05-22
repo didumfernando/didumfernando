@@ -3,7 +3,7 @@
  I am currently a Year 1 Computing Student at Anderson Serangoon Junior College. I am an aspiring software developer and aspiring Computer Science Student. Thank you for chancing upon my gallery of proejcts.
  
  - 🌱  I'm currently learning and exploring furthur into React .
- - 🔭  My experiences in coding languages are Python, HTML, CSS, SASS, React, Javascript, SQL, MongoDB.
+ - 🔭  My experiences in coding languages and design scripts such as Python, HTML, CSS, SASS, React, Javascript, SQL, MongoDB.
  - 👯  I'm looking to collaborate on any Machine Learning Projects and Web Development projects.
  - 📫  How to reach me: didumfernando1234@gmail.com
 
