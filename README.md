@@ -11,7 +11,7 @@
 
 ## My Experiences and what I have learnt:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,flask,linux,mongodb,ps,py,qt,react,redux,sass,sqlite,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,flask,linux,mongodb,ps,py,qt,react,redux,sass,sqlite,vite,ts)](https://skillicons.dev)
 
 
 
