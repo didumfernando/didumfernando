@@ -1,6 +1,6 @@
  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Didum+Fernando!)
  
- I am currently a Year 1 Computing Student at Anderson Serangoon Junior College. I am an aspiring software developer and aspiring Computer Science Student. Thank you for chancing upon my gallery of proejcts.
+ I am currently a Year 1 Computing Student at Anderson Serangoon Junior College. I am an aspiring software developer and aspiring Computer Science Student. Thank you for chancing upon my gallery of projects.
  
  - 🌱  I'm currently learning and exploring furthur into React .
  - 🔭  My experiences in coding languages and frameworks such as Python, HTML, CSS, SASS, React, Javascript, SQL, MongoDB and Flask.
