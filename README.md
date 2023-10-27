@@ -13,6 +13,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,flask,linux,mongodb,ps,py,qt,react,redux,sass,sqlite,vite,ts)](https://skillicons.dev)
 
+## Badges
+[![An image of @didumfernando's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/didumfernando)](https://holopin.io/@didumfernando)
+
 
 
 
